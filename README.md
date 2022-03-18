@@ -27,5 +27,3 @@ I'm a brazilian 🇧🇷 Forest Engineer with a passion for programming and tech
 
 <p align="left">
 <a href="https://www.linkedin.com/in/theilonmacedo/"><img src="https://img.shields.io/badge/-Theilon Macedo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/oberyn_94"><img src="https://img.shields.io/badge/-@oberyn_94-1769FF?style=flat&logo=Twitter&logoColor=white"/></a>
-</p>
