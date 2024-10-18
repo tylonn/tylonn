@@ -24,6 +24,3 @@ I'm a brazilian 🇧🇷 Forest Engineer with a passion for programming and tech
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TheilonMacedo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>  
-
-<p align="left">
-<a href="https://www.linkedin.com/in/theilonmacedo/"><img src="https://img.shields.io/badge/-Theilon Macedo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
