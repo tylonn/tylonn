@@ -1,4 +1,4 @@
-<h2>Hey, everyone! I'm Theilon!</h2>
+<h2>Hey, everyone!</h2>
 
 ### 💻 &nbsp;About Me
 I'm a brazilian 🇧🇷 Forest Engineer with a passion for programming and technology.  
