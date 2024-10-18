@@ -3,10 +3,10 @@
 ### 💻 &nbsp;About Me
 I'm a brazilian 🇧🇷 Forest Engineer with a passion for programming and technology.  
 🌳 I have a master's degree in Forest Engineering with applications in Remote Sensing and Hydrology.  
-📚 Currently I'm studying machine learning engineering, Python, Google Earth Engine and software development. In a near future I pretend to study a little bit of Rust and SQL.  
+📚 Currently I'm studying machine learning engineering, Python, Google Earth Engine and software development. In the near future I intend to study a little bit of Rust and SQL.  
 🥰 And I really love passionfruit desserts and Game of Thrones/ASOIAF.  
 
-✍🏽 I like to record my thoughts and studies on my [blog](https://theilonmacedo.netlify.app/) as a way to share my knowledge and experiences.  
+✍🏽 I enjoy recording my thoughts and studies on my [blog](https://theilonmacedo.netlify.app/) as a way to share my knowledge and experiences.  
 
 ### 💪 &nbsp;Skills
 
