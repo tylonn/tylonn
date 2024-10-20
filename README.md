@@ -20,7 +20,7 @@ I'm a brazilian 🇧🇷 Forest Engineer with a passion for programming and tech
 
 <p align="center">
 <a href="https://github.com/tylonn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheilonMacedo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TheilonMacedo&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tylonn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tylonn&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>  
